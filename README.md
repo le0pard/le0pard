@@ -1,8 +1,9 @@
-<img align='right' src='https://github.com/le0pard/le0pard/raw/master/octocat.gif' width='200"'>
+
+<img align="right" src="https://github.com/le0pard/le0pard/raw/master/octocat.gif" width="200" height="200" />
 
 ### Hi there, welcome to my GitHub profile 👋
 
-My name is Alexey Vasiliev (or Oleksii Vasyliev). 
+My name is Oleksii Vasyliev. 
 
 I work as a Software Engineer. For more information about me, check out this links:
 

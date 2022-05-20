@@ -1,6 +1,3 @@
-
-<img align="right" src="https://github.com/le0pard/le0pard/raw/master/octocat.gif" width="200" height="200" />
-
 ### Hi there, welcome to my GitHub profile 👋
 
 My name is Oleksii Vasyliev. 

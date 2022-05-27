@@ -13,4 +13,5 @@ I work as a Software Engineer. For more information about me, check out this lin
 
 
 
-![profile 3d](./profile-3d-contrib/profile-season-animate.svg)
+![profile 3d light](./profile-3d-contrib/profile-season-animate.svg#gh-light-mode-only)
+![profile 3d dark](./profile-3d-contrib/profile-night-green.svg#gh-dark-mode-only)

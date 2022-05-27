@@ -10,3 +10,7 @@ I work as a Software Engineer. For more information about me, check out this lin
  - :books: [Book "Working with PostgreSQL: tunning and scaling" (Russian language)](https://postgresql.leopard.in.ua/)
  - :scroll: [My Curriculum Vitae](https://github.com/le0pard/cv)
  - :memo: [Old Blog](https://leopard.in.ua/)
+
+
+
+![profile 3d](./profile-3d-contrib/profile-season-animate.svg)

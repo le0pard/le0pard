@@ -10,7 +10,7 @@ I work as a Software Engineer. For more information about me, check out this lin
  - :scroll: [My Curriculum Vitae](https://github.com/le0pard/cv)
  - :memo: [Old Blog](https://leopard.in.ua/)
 
-
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/leopard)
 
 ![profile 3d light](./profile-3d-contrib/profile-season-animate.svg#gh-light-mode-only)
 ![profile 3d dark](./profile-3d-contrib/profile-night-green.svg#gh-dark-mode-only)

@@ -1,4 +1,4 @@
-### Hi there, welcome to my GitHub profile 👋
+### Hi there, welcome to my GitHub profile [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua)
 
 My name is Oleksii Vasyliev. 
 

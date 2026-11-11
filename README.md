@@ -5,10 +5,11 @@ My name is Oleksii Vasyliev.
 I work as a Software Engineer. For more information about me, check out this links:
 
  - :bird: [Twitter](https://twitter.com/leopard_me/)
+ - :memo: [Blog](https://leopard.in.ua/)
  - :headphones: [RWpod - podcast about Ruby and Web (Ukrainian language)](https://www.rwpod.com/)
  - :notebook: [Conference Presentations Archive](https://leopard.in.ua/presentations/)
  - :scroll: [My Curriculum Vitae](https://github.com/le0pard/cv)
- - :memo: [Old Blog](https://leopard.in.ua/)
+
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/leopard)
 
